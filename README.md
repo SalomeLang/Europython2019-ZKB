@@ -1,2 +1,2 @@
 # Europython2019-ZKB
-bla bla
+Contains all material of the knowledge transfer session for my colleagues at ZKB who would like to practice Python at home.
